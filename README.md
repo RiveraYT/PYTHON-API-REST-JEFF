@@ -14,3 +14,4 @@ by pass🥇
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass   
 
 
+pip install flask-sqlalchemy
