@@ -8,6 +8,9 @@ virtualenv env
 actualizar pip:
 python.exe -m pip install --upgrade pip
 pip install flask
+pip  install flask-cors
+pip install flsk-sqlalchemy
+pip install mysql-connector-python
 
 
 by pass🥇
